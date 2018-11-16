@@ -211,14 +211,19 @@ let result= sayHello()
 console.log(result)
 console.log('end of program')
 
-function myFuntion(){
+// function myFuntion(){
     // calculate return value
     // ...
 
-    return returnValue;
-}
+    // return returnValue;
+// }
 
 // get return value from myFunction
-var value= myFuntion();
+// var value= myFuntion();
 
+var i =0
+while(i<=4){
+    console.log("hi")
+    i++
+}
   
