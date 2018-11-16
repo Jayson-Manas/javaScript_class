@@ -201,5 +201,24 @@
 //     console.log(alert('hello '+ name))
 // }
 // yelp()
+////////////the return property///////////
+function sayHello(){
+    return "hello";
+}
+console.log('start of program')
+let result= sayHello()
+// call function
+console.log(result)
+console.log('end of program')
+
+function myFuntion(){
+    // calculate return value
+    // ...
+
+    return returnValue;
+}
+
+// get return value from myFunction
+var value= myFuntion();
 
   
