@@ -24,7 +24,7 @@ y.onclick = function(){
     x.style.color = "blue";
 }
 i.onclick = function(){
-    x.style.color = "black";
+    window.location.reload();
 
 }
 
