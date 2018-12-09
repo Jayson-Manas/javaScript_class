@@ -1,0 +1,8 @@
+@import 'partials/variables',
+        'partials/base',
+        'partials/layout',
+        'partials/components',
+        'partials/responsiveness';
+
+// this method is also used to export partials to other style pages
+// the order of import files is important.because it loads from the top.
