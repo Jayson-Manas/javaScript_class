@@ -1,5 +1,5 @@
 'use strict' 
-// use strict enable switching to the new modern mode. if not used strict program would be in the default mode. 
+// use strict enable switching to the new modern mode. if not used, strict program would be in the default mode. 
 
 // ===================================variables========================
 
